@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|d:\\microsoft visual studio\\project\\thtms_gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|THTMS_GUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\form1.debugmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|solutionrelative:form1.debugmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\form1.debugmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|solutionrelative:form1.debugmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\taskbarinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|solutionrelative:taskbarinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B91A738-0185-4AC7-B665-B4C1C4703DE3}|THTMS_GUI.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4fc5ff1-28ef-4b04-ad02-6b298310ccc7}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAIMFAAAAAAAAAAAuwJIFAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:32:49.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAO8DAAAAAAAAAAAAwPQDAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:32:28.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:27:40.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.DebugMenu.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\Form1.DebugMenu.cs",
+              "RelativeDocumentMoniker": "Form1.DebugMenu.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\Form1.DebugMenu.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.DebugMenu.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T11:09:38.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-11-02T13:00:19.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskbarInterop.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\TaskbarInterop.cs",
+              "RelativeDocumentMoniker": "TaskbarInterop.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\TaskbarInterop.cs",
+              "RelativeToolTip": "TaskbarInterop.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwG8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T10:26:14.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "THTMS_GUI",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\THTMS_GUI.csproj",
+              "RelativeDocumentMoniker": "THTMS_GUI.csproj",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\THTMS_GUI.csproj",
+              "RelativeToolTip": "THTMS_GUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-02T12:27:57.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.DebugMenu.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\Form1.DebugMenu.cs",
+              "RelativeDocumentMoniker": "Form1.DebugMenu.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\Form1.DebugMenu.cs",
+              "RelativeToolTip": "Form1.DebugMenu.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAAABoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T11:09:00.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:32:02.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-03T04:09:37.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project\\THTMS_GUI\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-02T12:31:23.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
